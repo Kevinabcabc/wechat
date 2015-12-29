@@ -2,8 +2,8 @@
 //$token_access_url = "https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=".APPID."&secret=".APPSECRET;
 
 //header("Content-type:text/html;charset:utf-8");
-define("APPID", "wx337bf9978d09b6be"); //APPID
-define("APPSECRET", "d4624c36b6795d1d99dcf0547af5443d");//APPSECRET
+define("APPID", "修改为自己的APPID"); //APPID
+define("APPSECRET", "修改为自己的APPSECRET");//APPSECRET
 
 
 function postMsg($url, $data){
